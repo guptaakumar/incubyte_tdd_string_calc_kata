@@ -1,1 +1,0 @@
-# incubyte_tdd_string_calc_kata
